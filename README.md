@@ -1,2 +1,2 @@
-# globalbot-legal
-Documents légaux de Global BOT – bot Discord de gestion et modération.
+# raybot-legal
+Documents légaux de Ray BOT – bot Discord de gestion et modération.
