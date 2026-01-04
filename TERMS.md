@@ -1,4 +1,4 @@
-# Politique de confidentialité – Global BOT
+# Politique de confidentialité – Ray BOT
 
 Global BOT collecte uniquement les données nécessaires à son bon fonctionnement.
 
@@ -17,3 +17,4 @@ Global BOT collecte uniquement les données nécessaires à son bon fonctionneme
 - Les données peuvent être supprimées sur demande via le serveur Discord officiel.
 
 Dernière mise à jour : Décembre 2025
+
