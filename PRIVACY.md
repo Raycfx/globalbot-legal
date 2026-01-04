@@ -1,4 +1,4 @@
-# Politique de confidentialité – Global BOT
+# Politique de confidentialité – Ray BOT
 
 Global BOT respecte la confidentialité des utilisateurs et collecte uniquement les données nécessaires à son fonctionnement.
 
@@ -29,3 +29,4 @@ Des mesures raisonnables sont mises en place pour protéger les données stocké
 Cette politique de confidentialité peut être modifiée à tout moment.
 
 Dernière mise à jour : Décembre 2025
+
